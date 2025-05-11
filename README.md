@@ -16,8 +16,8 @@ This project enables anonymous messaging between Telegram users by leveraging a 
 Clone the project to your local machine:
 
 ```sh
-git clone https://github.com/your-repo/telegram-anonymous-chat.git
-cd telegram-anonymous-chat
+git clone https://github.com/Soren2007/telegram-anonymous-chatbot.git
+cd telegram-anonymous-chatbot
 ```
 
 ### 2️⃣ Create a Python Worker
